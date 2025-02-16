@@ -93,7 +93,7 @@ header {
     margin-top: 70px;
     border-radius: 50%;
     background-color: #222;
-    background-image: url('/api/placeholder/200/200');
+  background-image: url('https://media.licdn.com/dms/image/v2/C4E03AQFy0Br5wEAwBQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1611532952232?e=1745452800&v=beta&t=JU3-mAJSysWqaQrhbiloQx67Jk1gutH6nv6uewYGb3g');
     background-size: cover;
     box-shadow: 0 0 20px 10px rgba(0, 255, 229, 0.3);
 }
